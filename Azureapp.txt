@@ -1,0 +1,4 @@
+Azure App: 42f65146-6585-4296-bfce-eb2f4878795e
+
+
+Directory (tenant): e6346407-9583-42d8-be6e-37b1d999326e
